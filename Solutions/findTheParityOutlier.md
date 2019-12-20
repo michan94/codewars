@@ -10,6 +10,38 @@ Should return: 11 (the only odd number)
 Should return: 160 (the only even number)
 
 **First Solution:**
+```java
+public class FindOutlier{
+  static int find(int[] integers){
+  int evenCount = 0;
+  int oddCount = 0;
+  int outlier = 0;
+  for (int i=0; i<3; i++) {				//Find if list if even or odd majority
+    if (integers[i] % 2 == 0) {
+      evenCount++;
+    }
+    else {
+      oddCount++;
+    }
+  }
+  
+  if (evenCount > 1) {					// Start finding the odd number
+  	for (int j=0; j < integers.length; j++) {
+  		if (integers[j] % 2 != 0) {
+ 			outlier = integers[j]; 		
+  		}
+  	}		
+  }
+  else {								//Start finding the even number
+  	for (int k=0; k <integers.length; k++) {
+  		if (integers[k] % 2 == 0) {
+  			outlier = integers[k];
+  		}
+  	}
+  }
+  return outlier;
+}
+}
 
 ```
 
