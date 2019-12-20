@@ -22,6 +22,11 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Printer Errors](https://github.com/michan94/codewars/blob/master/Solutions/Python/PrinterErrors.md)
 
+* [Regex Validate PIN Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/regexValidatePINCode.md)
+
+* [String Repeat](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringRepeat.md)
+
+
 
 
 
