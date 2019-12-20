@@ -9,9 +9,9 @@ If a name has exactly 4 letters in it, you can be sure that it has to be a frien
 **First Solution:**
 ```python
 def friend(x):
+    friends = [];
     for person in x:
-        name = list(person);
-        if len(name) != 4:
-            x.remove(person);
-    return x;
+        if len(person) == 4:
+            friends.append(person);
+    return friends;
 ```
