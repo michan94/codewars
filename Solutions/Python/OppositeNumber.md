@@ -15,3 +15,9 @@ Very simple, given a number, find its opposite.
 def opposite(number):
   return number - (2 * number)    
 ```
+
+**Second Solution:**
+```python
+def opposite(number):
+  return number * -1   
+```
