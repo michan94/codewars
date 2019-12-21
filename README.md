@@ -34,6 +34,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [You're A Square](https://github.com/michan94/codewars/blob/master/Solutions/Python/youreASquare.md)
 
+* [Growth of a Population](https://github.com/michan94/codewars/blob/master/Solutions/Python/growthOfAPopulation.md)
+
 
 
 
