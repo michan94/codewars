@@ -30,6 +30,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Square Every Digit](https://github.com/michan94/codewars/blob/master/Solutions/Python/squareEveryDigit.md)
 
+* [Basic Mathematical Operations](https://github.com/michan94/codewars/blob/master/Solutions/Python/basicMathematicalOperations.md)
+
+* [You're A Square](https://github.com/michan94/codewars/blob/master/Solutions/Python/youreASquare.md)
+
 
 
 
