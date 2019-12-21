@@ -26,6 +26,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [String Repeat](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringRepeat.md)
 
+* [Remove First and Last Character](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeFirstAndLastCharacter.md)
+
+* [Square Every Digit](https://github.com/michan94/codewars/blob/master/Solutions/Python/squareEveryDigit.md)
+
 
 
 
