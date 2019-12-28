@@ -44,6 +44,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Exes and Ohs](https://github.com/michan94/codewars/blob/master/Solutions/Python/exesAndOhs.md)
 
+* [Sum of Two Lowest Positive Integers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfTwoLowestPositiveIntegers.md)
+
+* [The Highest Profit Wins](https://github.com/michan94/codewars/blob/master/Solutions/Python/theHighestProfitWins.md)
+
 
 
 
