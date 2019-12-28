@@ -36,6 +36,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Growth of a Population](https://github.com/michan94/codewars/blob/master/Solutions/Python/growthOfAPopulation.md)
 
+* [Vowel Count](https://github.com/michan94/codewars/blob/master/Solutions/Python/vowelCount.md)
+
+* [Are They The "Same"?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areTheyTheSame.md)
+
 
 
 
