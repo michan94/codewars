@@ -16,6 +16,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
 
+* [Odd or Even?](https://github.com/michan94/codewars/blob/master/Solutions/Python/oddOrEven.md)
+
 * [Friend or Foe](https://github.com/michan94/codewars/blob/master/Solutions/Python/FriendOrFoe.md)
 
 * [Opposite Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/OppositeNumber.md)
@@ -39,6 +41,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 * [Vowel Count](https://github.com/michan94/codewars/blob/master/Solutions/Python/vowelCount.md)
 
 * [Are They The "Same"?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areTheyTheSame.md)
+
+* [Exes and Ohs](https://github.com/michan94/codewars/blob/master/Solutions/Python/exesAndOhs.md)
 
 
 
