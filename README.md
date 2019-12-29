@@ -56,6 +56,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Detect Pangram](https://github.com/michan94/codewars/blob/master/Solutions/Python/detectPangram.md)
 
+* [Categorize New Member](https://github.com/michan94/codewars/blob/master/Solutions/Python/categorizeNewMember.md)
+
 
 
 
