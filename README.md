@@ -48,6 +48,12 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [The Highest Profit Wins](https://github.com/michan94/codewars/blob/master/Solutions/Python/theHighestProfitWins.md)
 
+* [Complementary DNA](https://github.com/michan94/codewars/blob/master/Solutions/Python/complementaryDNA.md)
+
+* [Sum of a Sequence](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfASequence.md)
+
+* [Two Fighters, One Winner](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoFightersOneWinner.md)
+
 
 
 
