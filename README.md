@@ -54,6 +54,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Two Fighters, One Winner](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoFightersOneWinner.md)
 
+* [Detect Pangram](https://github.com/michan94/codewars/blob/master/Solutions/Python/detectPangram.md)
+
+
+
 
 
 
