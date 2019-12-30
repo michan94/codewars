@@ -12,6 +12,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Isogram](https://github.com/michan94/codewars/blob/master/Solutions/Java/isogram.md)
 
+* [Two Sum](https://github.com/michan94/codewars/blob/master/Solutions/Java/twoSum.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
@@ -57,6 +59,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 * [Detect Pangram](https://github.com/michan94/codewars/blob/master/Solutions/Python/detectPangram.md)
 
 * [Categorize New Member](https://github.com/michan94/codewars/blob/master/Solutions/Python/categorizeNewMember.md)
+
+* [Find the Middle Element](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheMiddleElement.md)
+
+
 
 
 
