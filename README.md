@@ -64,6 +64,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Disemvowel Trolls](https://github.com/michan94/codewars/blob/master/Solutions/Python/disemvowelTrolls.md)
 
+* [Factorial](https://github.com/michan94/codewars/blob/master/Solutions/Python/factorial.md)
+
 
 
 
