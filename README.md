@@ -14,6 +14,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Two Sum](https://github.com/michan94/codewars/blob/master/Solutions/Java/twoSum.md)
 
+* [Bouncing Balls](https://github.com/michan94/codewars/blob/master/Solutions/Java/bouncingBalls.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
