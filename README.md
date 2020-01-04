@@ -62,6 +62,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Find the Middle Element](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheMiddleElement.md)
 
+* [Disemvowel Trolls](https://github.com/michan94/codewars/blob/master/Solutions/Python/disemvowelTrolls.md)
+
 
 
 
