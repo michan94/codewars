@@ -16,6 +16,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Bouncing Balls](https://github.com/michan94/codewars/blob/master/Solutions/Java/bouncingBalls.md)
 
+* [Deodorant Evaporator](https://github.com/michan94/codewars/blob/master/Solutions/Java/deodorantEvaporator.md)
+
+* [House Numbers Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/houseNumbersSum_Java.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
@@ -69,6 +73,13 @@ Codewars profile: https://www.codewars.com/users/michan94.
 * [Factorial](https://github.com/michan94/codewars/blob/master/Solutions/Python/factorial.md)
 
 * [Reverse Letter](https://github.com/michan94/codewars/blob/master/Solutions/Python/reverseLetter.md)
+
+* [Jaden Casing Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/jadenCasingStrings.md)
+
+* [Find All Occurrences of an Element in an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/findAllOccurrences.md)
+
+* [House Numbers Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/houseNumbersSum.md)
+
 
 
 
