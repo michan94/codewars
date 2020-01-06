@@ -22,6 +22,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Sum of Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Java/sumOfNumbers.md)
 
+* [Correct the Mistakes of the Character Recognition Software](https://github.com/michan94/codewars/blob/master/Solutions/Java/correctTheMistakesOfTheCharacterRecognitionSoftware.md)
+
+* [Stringy Strings](https://github.com/michan94/codewars/blob/master/Solutions/Java/stringyStrings.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
