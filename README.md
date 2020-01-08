@@ -30,6 +30,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Get the Mean of an Array](https://github.com/michan94/codewars/blob/master/Solutions/Java/getTheMeanOfAnArray.md)
 
+* [The Feast of Many Beasts](https://github.com/michan94/codewars/blob/master/Solutions/Java/theFeastOfManyBeasts.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
