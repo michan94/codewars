@@ -28,6 +28,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Abbreviate a Two Word Name](https://github.com/michan94/codewars/blob/master/Solutions/Java/abbreviateATwoWordName.md)
 
+* [Get the Mean of an Array](https://github.com/michan94/codewars/blob/master/Solutions/Java/getTheMeanOfAnArray.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
