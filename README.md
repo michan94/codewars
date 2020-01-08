@@ -26,6 +26,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Stringy Strings](https://github.com/michan94/codewars/blob/master/Solutions/Java/stringyStrings.md)
 
+* [Abbreviate a Two Word Name](https://github.com/michan94/codewars/blob/master/Solutions/Java/abbreviateATwoWordName.md)
+
 ### Python
 
 * [Even or Odd](https://github.com/michan94/codewars/blob/master/Solutions/Python/EvenOrOdd.md)
