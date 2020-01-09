@@ -112,6 +112,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Adjacent Elements Product](https://github.com/michan94/codewars/blob/master/Solutions/Python/adjacentElementsProduct.md)
 
+* [Maximum Multiple](https://github.com/michan94/codewars/blob/master/Solutions/Python/maximumMultiple.md)
+
+
 
 
 
