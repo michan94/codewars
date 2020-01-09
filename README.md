@@ -114,6 +114,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Maximum Multiple](https://github.com/michan94/codewars/blob/master/Solutions/Python/maximumMultiple.md)
 
+* [Shortest Word](https://github.com/michan94/codewars/blob/master/Solutions/Python/shortestWord.md)
+
+* [Summing a Number's Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/summingANumbersDigits.md)
+
 
 
 
