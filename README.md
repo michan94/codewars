@@ -94,6 +94,20 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [House Numbers Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/houseNumbersSum.md)
 
+* [Is n Divisible by x and y](https://github.com/michan94/codewars/blob/master/Solutions/Python/isNDivisibleByXAndY.md)
+
+* [Watermelon](https://github.com/michan94/codewars/blob/master/Solutions/Python/watermelon.md)
+
+* [What is Between?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whatIsBetween.md)
+
+* [Count the Monkeys!](https://github.com/michan94/codewars/blob/master/Solutions/Python/countTheMonkeys.md)
+
+* [Will You Make It?](https://github.com/michan94/codewars/blob/master/Solutions/Python/willYouMakeIt.md)
+
+* [Tip Calculator](https://github.com/michan94/codewars/blob/master/Solutions/Python/tipCalculator.md)
+
+* [Factorial](https://github.com/michan94/codewars/blob/master/Solutions/Python/factorial1.md)
+
 
 
 
