@@ -108,6 +108,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Factorial](https://github.com/michan94/codewars/blob/master/Solutions/Python/factorial1.md)
 
+* [Divide and Conquer](https://github.com/michan94/codewars/blob/master/Solutions/Python/divideAndConquer.md)
+
+* [Adjacent Elements Product](https://github.com/michan94/codewars/blob/master/Solutions/Python/adjacentElementsProduct.md)
+
 
 
 
