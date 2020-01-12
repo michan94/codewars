@@ -128,6 +128,12 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Century from Year](https://github.com/michan94/codewars/blob/master/Solutions/Python/centuryFromYear.md)
 
+* [Remove String Spaces](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeStringSpaces.md)
+
+* [Sum Mixed Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumMixedArray.md)
+
+* [Do I Get A Bonus?](https://github.com/michan94/codewars/blob/master/Solutions/Python/doIGetABonus.md)
+
 
 
 
