@@ -62,8 +62,6 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Vowel Count](https://github.com/michan94/codewars/blob/master/Solutions/Python/vowelCount.md)
 
-* [Are They The "Same"?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areTheyTheSame.md)
-
 * [Exes and Ohs](https://github.com/michan94/codewars/blob/master/Solutions/Python/exesAndOhs.md)
 
 * [Sum of Two Lowest Positive Integers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfTwoLowestPositiveIntegers.md)
@@ -118,7 +116,13 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Summing a Number's Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/summingANumbersDigits.md)
 
+* [Well of Ideas - Easy Version](https://github.com/michan94/codewars/blob/master/Solutions/Python/wellOfIdeas_Easy.md)
 
+* [You Can't Code Under Pressure #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/youCantCodeUnderPressure_1.md)
+
+* [Enumerable Magic #25 - Take the First N Elements](https://github.com/michan94/codewars/blob/master/Solutions/Python/enumerableMagic25_TakeTheFirstNElements.md)
+
+* [Find Numbers Which Are Divisible by Given Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findNumbersWhichAreDivisibleByGivenNumber.md)
 
 
 
