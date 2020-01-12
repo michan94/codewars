@@ -124,7 +124,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Find Numbers Which Are Divisible by Given Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findNumbersWhichAreDivisibleByGivenNumber.md)
 
+* [Convert Number to Reversed Array of Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/convertNumberToReversedArrayOfDigits.md)
 
+* [Century from Year](https://github.com/michan94/codewars/blob/master/Solutions/Python/centuryFromYear.md)
 
 
 
