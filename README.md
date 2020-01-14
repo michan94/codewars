@@ -134,6 +134,14 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Do I Get A Bonus?](https://github.com/michan94/codewars/blob/master/Solutions/Python/doIGetABonus.md)
 
+* [5 Without Numbers!!](https://github.com/michan94/codewars/blob/master/Solutions/Python/5WithoutNumbers.md)
+
+* [For UFC Fans](https://github.com/michan94/codewars/blob/master/Solutions/Python/forUFCFans.md)
+
+* [I Love You, A Little, A Lot, Passionately... Not At All](https://github.com/michan94/codewars/blob/master/Solutions/Python/iLoveYou.md)
+
+* [Calculate BMI](https://github.com/michan94/codewars/blob/master/Solutions/Python/calculateBMI.md)
+
 
 
 
