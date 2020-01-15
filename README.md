@@ -142,6 +142,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Calculate BMI](https://github.com/michan94/codewars/blob/master/Solutions/Python/calculateBMI.md)
 
+* [Convert a String to an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/convertAStringToAnArray.md)
+
 
 
 
