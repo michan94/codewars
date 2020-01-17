@@ -146,6 +146,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [All Star Code Challenge #3](https://github.com/michan94/codewars/blob/master/Solutions/Python/allStarCodeChallenge3.md.md)
 
+* [Testing 1-2-3](https://github.com/michan94/codewars/blob/master/Solutions/Python/testing123.md)
+
 
 
 
