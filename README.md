@@ -144,6 +144,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Convert a String to an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/convertAStringToAnArray.md)
 
+* [All Star Code Challenge #3](https://github.com/michan94/codewars/blob/master/Solutions/Python/allStarCodeChallenge3.md.md)
 
 
 
