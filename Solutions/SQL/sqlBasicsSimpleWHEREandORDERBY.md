@@ -9,6 +9,7 @@ id
 name
 
 age
+
 You should return all people fields where their age is over 50 and order by the age descending
 
 **First Solution:**
