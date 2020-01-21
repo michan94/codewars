@@ -156,6 +156,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Reversed Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
 
+* [101 Dalmatians - Squash the Bugs](https://github.com/michan94/codewars/blob/master/Solutions/Python/101DalmatiansSquashTheBugs.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
