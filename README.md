@@ -148,6 +148,12 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Testing 1-2-3](https://github.com/michan94/codewars/blob/master/Solutions/Python/testing123.md)
 
+* [Reversed Sequence](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedSequence.md)
+
+* [The Wide-Mouthed Frog!](https://github.com/michan94/codewars/blob/master/Solutions/Python/theWideMouthedFrog.md)
+
+* [Keep Up The Hoop](https://github.com/michan94/codewars/blob/master/Solutions/Python/keepUpTheHoop.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
