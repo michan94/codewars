@@ -154,6 +154,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Keep Up The Hoop](https://github.com/michan94/codewars/blob/master/Solutions/Python/keepUpTheHoop.md)
 
+* [Reversed Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
