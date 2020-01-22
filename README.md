@@ -160,6 +160,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Grasshopper - Personalized Message](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperPersonalizedMessage.md)
 
+* [Swap Values](https://github.com/michan94/codewars/blob/master/Solutions/Python/swapValues.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
