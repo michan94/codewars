@@ -166,6 +166,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Surface Area and Volume of a Box](https://github.com/michan94/codewars/blob/master/Solutions/Python/surfaceAreaAndVolumeOfCube.md)
 
+* [Grasshopper - Messi Goals Function](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperMessiGoalsFunction.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
