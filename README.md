@@ -164,6 +164,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Keep Hydrated](https://github.com/michan94/codewars/blob/master/Solutions/Python/keepHydrated.md)
 
+* [Surface Area and Volume of a Box](https://github.com/michan94/codewars/blob/master/Solutions/Python/surfaceAreaAndVolumeOfCube.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
