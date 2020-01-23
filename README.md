@@ -162,6 +162,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Swap Values](https://github.com/michan94/codewars/blob/master/Solutions/Python/swapValues.md)
 
+* [Keep Hydrated](https://github.com/michan94/codewars/blob/master/Solutions/Python/keepHydrated.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
