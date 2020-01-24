@@ -210,7 +210,31 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Invert Values](https://github.com/michan94/codewars/blob/master/Solutions/Python/invertValues.md)
 
-* [Reversed Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
+* [Is it a Palindrome?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isItAPalindrome.md)
+
+* [DNA to RNA Conversion](https://github.com/michan94/codewars/blob/master/Solutions/Python/dnaToRNAConversion.md)
+
+* [Find the Smallest Integer in the Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheSmallestIntegerInTheArray.md)
+
+* [Simple Multiplication](https://github.com/michan94/codewars/blob/master/Solutions/Python/simpleMultiplication.md)
+
+* [Sum Arrays](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumArrays.md)
+
+* [How Good Are You Really?](https://github.com/michan94/codewars/blob/master/Solutions/Python/howGoodAreYouReally.md)
+
+* [Beginner - Reduce but Grow](https://github.com/michan94/codewars/blob/master/Solutions/Python/reduceButGrow.md)
+
+* [Count by X](https://github.com/michan94/codewars/blob/master/Solutions/Python/countByX.md)
+
+* [Count Odd Numbers Below N](https://github.com/michan94/codewars/blob/master/Solutions/Python/countOddNumbersBelowN.md)
+
+* [Sum of Positive](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfPositive.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Is There a Vowel in There?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isThereAVowelInThere.md)
+
+
 
 ### SQL
 
