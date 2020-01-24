@@ -240,13 +240,13 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [You Only Need One](https://github.com/michan94/codewars/blob/master/Solutions/Python/youOnlyNeedOne.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Is This My Tail?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isThisMyTail.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [If You Can't Sleep, Just Count Sheep!!](https://github.com/michan94/codewars/blob/master/Solutions/Python/ifYouCantSleepJustCountSheep.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Sentence Smash](https://github.com/michan94/codewars/blob/master/Solutions/Python/sentenceSmash.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [All Star Code Challenge #18](https://github.com/michan94/codewars/blob/master/Solutions/Python/allStarCodeChalleng18.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
