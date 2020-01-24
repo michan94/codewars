@@ -178,6 +178,18 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Grasshopper - Check for Factor](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperCheckForFactor.md)
 
+* [Get Nth Even Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/getNthEvenNumber.md)
+
+* [A Needle in the Haystack](https://github.com/michan94/codewars/blob/master/Solutions/Python/aNeedleInTheHaystack.md)
+
+* [Square(n) Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/squareNSum.md)
+
+* [Count of Positives, Sum of Negatives](https://github.com/michan94/codewars/blob/master/Solutions/Python/countOfPosSumOfNeg.md)
+
+* [Convert Boolean Values to Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
+
+* [Reversed Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
