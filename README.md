@@ -168,6 +168,16 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Grasshopper - Messi Goals Function](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperMessiGoalsFunction.md)
 
+* [Grasshopper - Summation](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperSummation.md)
+
+* [Convert a String to a Number!](https://github.com/michan94/codewars/blob/master/Solutions/Python/convertAStringToANumber.md)
+
+* [Simple Fun #1: Seats in Theater](https://github.com/michan94/codewars/blob/master/Solutions/Python/seatsInTheater.md)
+
+* [L1: Set Alarm](https://github.com/michan94/codewars/blob/master/Solutions/Python/setAlarm.md)
+
+* [Grasshopper - Check for Factor](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperCheckForFactor.md)
+
 ### SQL
 
 * [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
