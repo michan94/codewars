@@ -234,6 +234,22 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Is There a Vowel in There?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isThereAVowelInThere.md)
 
+* [Is The String Uppercase?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isTheStringUppercase.md)
+
+* [Palindrome Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/palindromeStrings.md)
+
+* [You Only Need One](https://github.com/michan94/codewars/blob/master/Solutions/Python/youOnlyNeedOne.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
 
 
 ### SQL
