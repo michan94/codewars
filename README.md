@@ -186,7 +186,29 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Count of Positives, Sum of Negatives](https://github.com/michan94/codewars/blob/master/Solutions/Python/countOfPosSumOfNeg.md)
 
-* [Convert Boolean Values to Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
+* [Convert Boolean Values to Strings "Yes" or "No"](https://github.com/michan94/codewars/blob/master/Solutions/Python/convertBooleanValuesToStrings.md)
+
+* [Student's Final Grade](https://github.com/michan94/codewars/blob/master/Solutions/Python/studentsFinalGrade.md)
+
+* [Will There Be Enough Space?](https://github.com/michan94/codewars/blob/master/Solutions/Python/willThereBeEnoughSpace.md)
+
+* [Return Negative](https://github.com/michan94/codewars/blob/master/Solutions/Python/returnNegative.md)
+
+* [Grasshopper - Terminal Game Combat Function](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperTerminalGameCombatFunction.md)
+
+* [Closest Elevator](https://github.com/michan94/codewars/blob/master/Solutions/Python/closestElevator.md)
+
+* [Total Amount of Points](https://github.com/michan94/codewars/blob/master/Solutions/Python/totalAmountOfPoints.md)
+
+* [How Many Lightsabers Do You Own?](https://github.com/michan94/codewars/blob/master/Solutions/Python/howManyLightsabers.md)
+
+* [Check the Exam](https://github.com/michan94/codewars/blob/master/Solutions/Python/checkTheExam.md)
+
+* [Filter Out the Geese](https://github.com/michan94/codewars/blob/master/Solutions/Python/filterOutTheGeese.md)
+
+* [Grasshopper - Make Change](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperMakeChange.md)
+
+* [Invert Values](https://github.com/michan94/codewars/blob/master/Solutions/Python/invertValues.md)
 
 * [Reversed Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversedStrings.md)
 
