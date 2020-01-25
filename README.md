@@ -258,11 +258,11 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Are You Playing Banjo?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areYouPlayingBanjo.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Reverse List Order](https://github.com/michan94/codewars/blob/master/Solutions/Python/reverseListOrder.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Removing Elements](https://github.com/michan94/codewars/blob/master/Solutions/Python/removingElements.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Is He Gonna Survive?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isHeGonnaSurvive.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
