@@ -248,6 +248,26 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [All Star Code Challenge #18](https://github.com/michan94/codewars/blob/master/Solutions/Python/allStarCodeChalleng18.md)
 
+* [Who is Going to Pay for the Wall?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whoIsGoingToPayForTheWall.md)
+
+* [Thinkful - Number Drills: Blue and Red Marbles](https://github.com/michan94/codewars/blob/master/Solutions/Python/numberDrillsBlueAndRedMarbles.md)
+
+* [Return the Day](https://github.com/michan94/codewars/blob/master/Solutions/Python/returnTheDay.md)
+
+* [Are They Opposite?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areTheyOpposite.md)
+
+* [Are You Playing Banjo?](https://github.com/michan94/codewars/blob/master/Solutions/Python/areYouPlayingBanjo.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
 
