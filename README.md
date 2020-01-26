@@ -266,7 +266,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Product of Maximum of Arrays (Array Series #2)](https://github.com/michan94/codewars/blob/master/Solutions/Python/productOfMaximumsOfArrays.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Absent Vowel](https://github.com/michan94/codewars/blob/master/Solutions/Python/absentVowel.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
