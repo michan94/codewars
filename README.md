@@ -268,6 +268,24 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Absent Vowel](https://github.com/michan94/codewars/blob/master/Solutions/Python/absentVowel.md)
 
+* [Descending Order](https://github.com/michan94/codewars/blob/master/Solutions/Python/descendingOrder.md)
+
+* [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
+
+* [List Filtering](https://github.com/michan94/codewars/blob/master/Solutions/Python/listFiltering.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
 
