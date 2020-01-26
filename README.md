@@ -264,7 +264,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Is He Gonna Survive?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isHeGonnaSurvive.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Product of Maximum of Arrays (Array Series #2)](https://github.com/michan94/codewars/blob/master/Solutions/Python/productOfMaximumsOfArrays.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
