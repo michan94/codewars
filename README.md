@@ -278,9 +278,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Ones and Zeros](https://github.com/michan94/codewars/blob/master/Solutions/Python/onesAndZeros.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Number of People in the Bus](https://github.com/michan94/codewars/blob/master/Solutions/Python/numberOfPeopleInTheBus.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Remove the Minimum](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeTheMinimum.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
