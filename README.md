@@ -276,7 +276,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Credit Card Mask](https://github.com/michan94/codewars/blob/master/Solutions/Python/creditCardMask.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Ones and Zeros](https://github.com/michan94/codewars/blob/master/Solutions/Python/onesAndZeros.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
