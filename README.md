@@ -282,9 +282,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Remove the Minimum](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeTheMinimum.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Beginner - Lost Without a Map](https://github.com/michan94/codewars/blob/master/Solutions/Python/lostWithoutAMap.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Calculate Average](https://github.com/michan94/codewars/blob/master/Solutions/Python/calculateAverage.md)
 
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
