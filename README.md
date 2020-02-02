@@ -292,11 +292,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Love vs Friendship](https://github.com/michan94/codewars/blob/master/Solutions/Python/loveVsFriendship.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Help Bob Count Letters and Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/helpBob.md)
 
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
-
-* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+* [Multiples of 3 or 5](https://github.com/michan94/codewars/blob/master/Solutions/Python/multiplesOf3Or5.md)
 
 
 
