@@ -296,6 +296,18 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Multiples of 3 or 5](https://github.com/michan94/codewars/blob/master/Solutions/Python/multiplesOf3Or5.md)
 
+* [Number of Occurrences](https://github.com/michan94/codewars/blob/master/Solutions/Python/numberOfOccurrences.md)
+
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
+* [STRONGN Strong Number (Special Numbers Series #2)](https://github.com/michan94/codewars/blob/master/Solutions/Python/strongNumber.md)
+
+* [Balanced Number (Special Numbers Series #1)](https://github.com/michan94/codewars/blob/master/Solutions/Python/balancedNumber.md)
+
+* [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
+
+* [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
+
 
 
 ### SQL
