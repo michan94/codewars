@@ -286,6 +286,16 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Calculate Average](https://github.com/michan94/codewars/blob/master/Solutions/Python/calculateAverage.md)
 
+* [Jenny's Secret Message](https://github.com/michan94/codewars/blob/master/Solutions/Python/jennysSecretMessage.md)
+
+* [Rock Paper Scissors!](https://github.com/michan94/codewars/blob/master/Solutions/Python/rockPaperScissors.md)
+
+* [Love vs Friendship](https://github.com/michan94/codewars/blob/master/Solutions/Python/loveVsFriendship.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
+* [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
+
 * [Fake Binary](https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md)
 
 
