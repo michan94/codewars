@@ -304,7 +304,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Balanced Number (Special Numbers Series #1)](https://github.com/michan94/codewars/blob/master/Solutions/Python/balancedNumber.md)
 
-* [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
+* [Special Number (Special Numbers Series #5)](https://github.com/michan94/codewars/blob/master/Solutions/Python/specialNumber.md)
 
 * [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
 
