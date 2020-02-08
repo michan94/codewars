@@ -306,7 +306,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Special Number (Special Numbers Series #5)](https://github.com/michan94/codewars/blob/master/Solutions/Python/specialNumber.md)
 
-* [Two to One](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoToOne.md)
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
 
 
 
