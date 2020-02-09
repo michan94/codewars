@@ -308,6 +308,20 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
 
+* [Sum of Digits / Digital Root](https://github.com/michan94/codewars/blob/master/Solutions/Python/digitalRoot.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
+* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+
 
 
 ### SQL
