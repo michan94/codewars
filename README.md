@@ -316,11 +316,20 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Find the Stray Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheStrayNumber.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [Sum of Minimums!](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfMinimums.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [What's My Golf Score?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whatsMyGolfScore.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
+* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+
 
 
 
