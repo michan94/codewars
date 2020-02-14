@@ -310,11 +310,11 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Sum of Digits / Digital Root](https://github.com/michan94/codewars/blob/master/Solutions/Python/digitalRoot.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [Highest and Lowest](https://github.com/michan94/codewars/blob/master/Solutions/Python/highestAndLowest.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [String ends with?](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringEndsWith.md)
 
-* [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
+* [Find the Stray Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheStrayNumber.md)
 
 * [Array Exchange](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayExchange.md)
 
