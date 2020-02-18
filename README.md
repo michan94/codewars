@@ -322,7 +322,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Remove Duplicate Words](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeDuplicateWords.md)
 
-* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+* [Complete the Pattern #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/completeThePattern1.md)
 
 * [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
 
