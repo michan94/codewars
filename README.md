@@ -320,7 +320,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [What's My Golf Score?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whatsMyGolfScore.md)
 
-* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+* [Remove Duplicate Words](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeDuplicateWords.md)
 
 * [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
 
