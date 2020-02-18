@@ -326,7 +326,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * ["Very Even" Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/veryEvenNumbers.md)
 
-* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+* [Tidy Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/tidyNumber.md)
 
 * [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
 
