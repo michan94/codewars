@@ -324,7 +324,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 * [Complete the Pattern #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/completeThePattern1.md)
 
-* [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
+* ["Very Even" Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/veryEvenNumbers.md)
 
 * [Lottery Machine](https://github.com/michan94/codewars/blob/master/Solutions/Python/lotteryMachine.md)
 
