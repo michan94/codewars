@@ -21,3 +21,14 @@ def add_length(str_):
         result.append(f"{word} {wordLength}")
     return result
 ```
+
+**Second Solution:**
+
+```python
+def add_length(str_):
+    result = []
+    for word in str_.split():
+        wordLength = len(word)
+        result.append(f"{word} {wordLength}")
+    return result
+```
