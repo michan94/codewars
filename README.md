@@ -334,6 +334,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Break camelCase](https://github.com/michan94/codewars/blob/master/Solutions/Python/breakCamelCase.md)
 
+- [Add Length](https://github.com/michan94/codewars/blob/master/Solutions/Python/addLength.md)
+
 ### SQL
 
 - [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
