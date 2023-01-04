@@ -336,6 +336,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Add Length](https://github.com/michan94/codewars/blob/master/Solutions/Python/addLength.md)
 
+- [Vowel Remover](https://github.com/michan94/codewars/blob/master/Solutions/Python/vowelRemover.md)
+
 ### SQL
 
 - [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
