@@ -340,6 +340,8 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Cat Years, Dog Years](https://github.com/michan94/codewars/blob/master/Solutions/Python/catYearsDogYears.md)
 
+- [Find Maximum and Minimum Values of a List](https://github.com/michan94/codewars/blob/master/Solutions/Python/findMaximumandMinimumOfList.md)
+
 ### SQL
 
 - [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
