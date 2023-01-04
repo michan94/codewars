@@ -342,6 +342,10 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find Maximum and Minimum Values of a List](https://github.com/michan94/codewars/blob/master/Solutions/Python/findMaximumandMinimumOfList.md)
 
+- [Return to Sanity](https://github.com/michan94/codewars/blob/master/Solutions/Python/returnToSanity.md)
+
+- [Switch it Up!](https://github.com/michan94/codewars/blob/master/Solutions/Python/switchItUp.md)
+
 ### SQL
 
 - [SQL Basics: Simple WHERE and ORDER BY](https://github.com/michan94/codewars/blob/master/Solutions/SQL/sqlBasicsSimpleWHEREandORDERBY.md)
