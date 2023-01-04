@@ -344,7 +344,19 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Return to Sanity](https://github.com/michan94/codewars/blob/master/Solutions/Python/returnToSanity.md)
 
-- [Switch it Up!](https://github.com/michan94/codewars/blob/master/Solutions/Python/switchItUp.md)
+- [Super Duper Easy](https://github.com/michan94/codewars/blob/master/Solutions/Python/superDuperEasy.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 ### SQL
 
