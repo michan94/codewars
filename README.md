@@ -346,7 +346,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Super Duper Easy](https://github.com/michan94/codewars/blob/master/Solutions/Python/superDuperEasy.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [The if Function](https://github.com/michan94/codewars/blob/master/Solutions/Python/theIfFunction.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
