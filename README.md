@@ -348,9 +348,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [The if Function](https://github.com/michan94/codewars/blob/master/Solutions/Python/theIfFunction.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
-
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum A List But Ignore Any Duplicates](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumListIgnoringDupes.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
