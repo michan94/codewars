@@ -19,5 +19,21 @@ def sum_no_duplicates(l):
         if seen[num] == 1:
             result += num
     return result
+```
 
+**Second Solution:**
+
+```python
+def sum_no_duplicates(l):
+    seen = {}
+    result = 0
+    for num in l:
+        if num in seen:
+            seen[num] += 1
+        else:
+            seen[num] = 1
+    for key, value in seen.items():
+        if value == 1:
+            result += key
+    return result
 ```
