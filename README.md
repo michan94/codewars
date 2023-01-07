@@ -350,7 +350,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum A List But Ignore Any Duplicates](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumListIgnoringDupes.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [French Imparfait Conjugation](https://github.com/michan94/codewars/blob/master/Solutions/Python/frenchImparfaitConjugation.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
