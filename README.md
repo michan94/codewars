@@ -354,7 +354,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Deutschstunde](https://github.com/michan94/codewars/blob/master/Solutions/Python/deutschstunde.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Last Survivor](https://github.com/michan94/codewars/blob/master/Solutions/Python/lastSurvivor.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
