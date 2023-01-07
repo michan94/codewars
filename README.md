@@ -352,6 +352,12 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [French Imparfait Conjugation](https://github.com/michan94/codewars/blob/master/Solutions/Python/frenchImparfaitConjugation.md)
 
+- [Deutschstunde](https://github.com/michan94/codewars/blob/master/Solutions/Python/deutschstunde.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
