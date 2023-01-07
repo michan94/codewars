@@ -358,9 +358,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find Count of Most Frequent Item in an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/countOfMostFrequent.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Count Consonants](https://github.com/michan94/codewars/blob/master/Solutions/Python/countConsonants.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Mumbling](https://github.com/michan94/codewars/blob/master/Solutions/Python/mumbling.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
