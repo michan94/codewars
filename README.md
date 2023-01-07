@@ -356,6 +356,14 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Last Survivor](https://github.com/michan94/codewars/blob/master/Solutions/Python/lastSurvivor.md)
 
+- [Find Count of Most Frequent Item in an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/countOfMostFrequent.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
