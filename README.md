@@ -362,7 +362,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Mumbling](https://github.com/michan94/codewars/blob/master/Solutions/Python/mumbling.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Isograms](https://github.com/michan94/codewars/blob/master/Solutions/Python/isograms.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
