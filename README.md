@@ -366,7 +366,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum of Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfNumbers.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Abbreviate a Two Word Name](https://github.com/michan94/codewars/blob/master/Solutions/Python/abbreviateName.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
