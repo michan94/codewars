@@ -364,7 +364,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Isograms](https://github.com/michan94/codewars/blob/master/Solutions/Python/isograms.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum of Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfNumbers.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
