@@ -370,7 +370,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Opposites Attract](https://github.com/michan94/codewars/blob/master/Solutions/Python/oppositesAttract.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Divisors!](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheDivisors.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
