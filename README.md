@@ -368,6 +368,20 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Abbreviate a Two Word Name](https://github.com/michan94/codewars/blob/master/Solutions/Python/abbreviateName.md)
 
+- [Opposites Attract](https://github.com/michan94/codewars/blob/master/Solutions/Python/oppositesAttract.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 ### SQL
