@@ -372,7 +372,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Divisors!](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheDivisors.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Get the Mean of an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/meanOfArray.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
