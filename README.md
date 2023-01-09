@@ -374,7 +374,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Get the Mean of an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/meanOfArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum Without Highest and Lowest Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumWithoutHighestAndLowest.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
