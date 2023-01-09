@@ -376,7 +376,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum Without Highest and Lowest Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumWithoutHighestAndLowest.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [The Feast of Many Beasts](https://github.com/michan94/codewars/blob/master/Solutions/Python/feastOfManyBeasts.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
