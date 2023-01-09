@@ -382,7 +382,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Double Char](https://github.com/michan94/codewars/blob/master/Solutions/Python/doubleChar.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Get Planet Name By ID](https://github.com/michan94/codewars/blob/master/Solutions/Python/getPlanetNameByID.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
