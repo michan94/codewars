@@ -12,6 +12,8 @@ def double_char(s):
     return result
 ```
 
+**Second Solution:**
+
 ```python
 def double_char(s):
     return ''.join(2*ch for ch in s)
