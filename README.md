@@ -386,7 +386,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Character Recognition Software](https://github.com/michan94/codewars/blob/master/Solutions/Python/characterRecognitionSoftware.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/michan94/codewars/blob/master/Solutions/Python/alternatingCase.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
