@@ -400,7 +400,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sort and Star](https://github.com/michan94/codewars/blob/master/Solutions/Python/sortAndStar.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Is it Even?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isItEven.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
