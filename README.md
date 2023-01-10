@@ -404,7 +404,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Filling an Array (Part 1)](https://github.com/michan94/codewars/blob/master/Solutions/Python/fillingArrayPt1.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Anagram Detection](https://github.com/michan94/codewars/blob/master/Solutions/Python/anagramDetection.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
