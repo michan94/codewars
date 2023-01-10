@@ -406,6 +406,22 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Anagram Detection](https://github.com/michan94/codewars/blob/master/Solutions/Python/anagramDetection.md)
 
+- [Sort Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sortNumbers.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
