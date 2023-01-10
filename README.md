@@ -402,7 +402,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Is it Even?](https://github.com/michan94/codewars/blob/master/Solutions/Python/isItEven.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Filling an Array (Part 1)](https://github.com/michan94/codewars/blob/master/Solutions/Python/fillingArrayPt1.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
