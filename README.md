@@ -394,7 +394,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Welcome!](https://github.com/michan94/codewars/blob/master/Solutions/Python/welcome.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum The Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumTheStrings.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
