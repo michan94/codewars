@@ -16,6 +16,9 @@ Complete the function to return true if the two arguments given are anagrams of 
 
 ```python
 def is_anagram(test, original):
+    if len(test) != len(original):
+        return False
+
     test, original = test.lower(), original.lower()
     seen = {}
     for letter in original:
