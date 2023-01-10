@@ -384,7 +384,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Get Planet Name By ID](https://github.com/michan94/codewars/blob/master/Solutions/Python/getPlanetNameByID.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Character Recognition Software](https://github.com/michan94/codewars/blob/master/Solutions/Python/characterRecognitionSoftware.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
