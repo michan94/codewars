@@ -388,7 +388,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/michan94/codewars/blob/master/Solutions/Python/alternatingCase.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Count the Divisors of a Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/numDivisors.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
