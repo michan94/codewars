@@ -392,7 +392,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Money, Money, Money](https://github.com/michan94/codewars/blob/master/Solutions/Python/moneyMoneyMoney.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Welcome!](https://github.com/michan94/codewars/blob/master/Solutions/Python/welcome.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
