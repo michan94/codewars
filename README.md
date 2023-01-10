@@ -396,7 +396,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum The Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumTheStrings.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [To Square(root) or Not to Square(root)](https://github.com/michan94/codewars/blob/master/Solutions/Python/toSquareRootOrNot.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
