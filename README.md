@@ -412,7 +412,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Generate Range of Integers](https://github.com/michan94/codewars/blob/master/Solutions/Python/generateRangeOfIntegers.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Merge Two Sorted Arrays Into One](https://github.com/michan94/codewars/blob/master/Solutions/Python/mergeTwoSortedArrays.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
