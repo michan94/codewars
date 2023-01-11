@@ -414,7 +414,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Merge Two Sorted Arrays Into One](https://github.com/michan94/codewars/blob/master/Solutions/Python/mergeTwoSortedArrays.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Stringy Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringyStrings.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
