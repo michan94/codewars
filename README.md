@@ -410,7 +410,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Small Enough?](https://github.com/michan94/codewars/blob/master/Solutions/Python/smallEnough.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Generate Range of Integers](https://github.com/michan94/codewars/blob/master/Solutions/Python/generateRangeOfIntegers.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
