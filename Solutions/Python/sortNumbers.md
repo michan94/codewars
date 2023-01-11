@@ -17,3 +17,10 @@ def solution(nums):
     nums.sort()
     return nums
 ```
+
+**Second Solution:**
+
+```python
+def solution(nums):
+    return sorted(nums) if nums else []
+```
