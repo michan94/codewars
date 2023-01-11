@@ -408,7 +408,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sort Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sortNumbers.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Small Enough?](https://github.com/michan94/codewars/blob/master/Solutions/Python/smallEnough.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
