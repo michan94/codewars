@@ -426,7 +426,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Drink About](https://github.com/michan94/codewars/blob/master/Solutions/Python/drinkAbout.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Fix String Case](https://github.com/michan94/codewars/blob/master/Solutions/Python/fixStringCase.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
