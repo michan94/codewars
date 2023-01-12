@@ -422,7 +422,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Name Shuffler](https://github.com/michan94/codewars/blob/master/Solutions/Python/nameShuffler.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Exclamation Marks Series #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/exclamationMarks1.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
