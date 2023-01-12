@@ -428,7 +428,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Fix String Case](https://github.com/michan94/codewars/blob/master/Solutions/Python/fixStringCase.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Replace All Dots](https://github.com/michan94/codewars/blob/master/Solutions/Python/replaceAllDots.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
