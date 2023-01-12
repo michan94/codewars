@@ -430,7 +430,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Replace All Dots](https://github.com/michan94/codewars/blob/master/Solutions/Python/replaceAllDots.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [No Zeros for Heroes](https://github.com/michan94/codewars/blob/master/Solutions/Python/noZerosForHeroes.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
