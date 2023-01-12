@@ -416,6 +416,20 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Stringy Strings](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringyStrings.md)
 
+- [Make a Function That Does Arithmetic!](https://github.com/michan94/codewars/blob/master/Solutions/Python/arithmeticFunction.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
