@@ -418,7 +418,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Make a Function That Does Arithmetic!](https://github.com/michan94/codewars/blob/master/Solutions/Python/arithmeticFunction.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Capitals](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheCapitals.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
