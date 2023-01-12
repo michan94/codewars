@@ -424,7 +424,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Exclamation Marks Series #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/exclamationMarks1.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Drink About](https://github.com/michan94/codewars/blob/master/Solutions/Python/drinkAbout.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
