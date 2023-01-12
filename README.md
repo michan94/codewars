@@ -420,7 +420,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Capitals](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheCapitals.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Name Shuffler](https://github.com/michan94/codewars/blob/master/Solutions/Python/nameShuffler.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
