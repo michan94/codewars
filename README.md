@@ -442,7 +442,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Position!](https://github.com/michan94/codewars/blob/master/Solutions/Python/findThePosition.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [The Coupon Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/couponCode.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
