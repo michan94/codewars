@@ -444,7 +444,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [The Coupon Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/couponCode.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Pre-FizzBuzz Workout #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/preFizzBuzz1.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
