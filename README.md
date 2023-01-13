@@ -450,6 +450,26 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Remove Duplicates From List](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeDuplicatesFromList.md)
 
+- [Row Weights](https://github.com/michan94/codewars/blob/master/Solutions/Python/rowWeights.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
