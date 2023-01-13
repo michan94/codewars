@@ -438,7 +438,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Plural](https://github.com/michan94/codewars/blob/master/Solutions/Python/plural.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Alternate Capitalization](https://github.com/michan94/codewars/blob/master/Solutions/Python/alternateCapitalization.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
