@@ -446,7 +446,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Pre-FizzBuzz Workout #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/preFizzBuzz1.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Flatten and Sort An Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/flattenAndSortArray.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
