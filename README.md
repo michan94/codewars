@@ -440,7 +440,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Alternate Capitalization](https://github.com/michan94/codewars/blob/master/Solutions/Python/alternateCapitalization.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Position!](https://github.com/michan94/codewars/blob/master/Solutions/Python/findThePosition.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
