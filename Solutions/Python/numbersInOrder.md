@@ -27,3 +27,10 @@ def in_asc_order(arr):
         right += 1
     return True
 ```
+
+**Second Solution:**
+
+```python
+def in_asc_order(arr):
+    return arr == sorted(arr)
+```
