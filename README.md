@@ -448,7 +448,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Flatten and Sort An Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/flattenAndSortArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Remove Duplicates From List](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeDuplicatesFromList.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
