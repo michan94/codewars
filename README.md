@@ -436,6 +436,22 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Are the Numbers in Order?](https://github.com/michan94/codewars/blob/master/Solutions/Python/numbersInOrder.md)
 
+- [Plural](https://github.com/michan94/codewars/blob/master/Solutions/Python/plural.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
+- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
