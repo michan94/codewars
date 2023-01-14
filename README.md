@@ -464,7 +464,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Regular Ball Super Ball](https://github.com/michan94/codewars/blob/master/Solutions/Python/regularSuperBall.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Grasshopper - Messi Goals](https://github.com/michan94/codewars/blob/master/Solutions/Python/messiGoals.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
