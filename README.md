@@ -468,7 +468,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Welcome to the City](https://github.com/michan94/codewars/blob/master/Solutions/Python/welcomeToTheCity.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Array Filter](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayFilter.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
