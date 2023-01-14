@@ -476,7 +476,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Remove All Exclamation Marks From End](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeAllExclamationMarks.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Maximum Length Difference](https://github.com/michan94/codewars/blob/master/Solutions/Python/maximumLengthDifference.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
