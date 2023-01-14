@@ -458,9 +458,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Enumerable Magic - Does My List Include This?](https://github.com/michan94/codewars/blob/master/Solutions/Python/doesMyListInclude.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Bartender, Drinks!](https://github.com/michan94/codewars/blob/master/Solutions/Python/bartenderDrinks.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Remainder](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheRemainder.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
