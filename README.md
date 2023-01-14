@@ -462,7 +462,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Remainder](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheRemainder.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Regular Ball Super Ball](https://github.com/michan94/codewars/blob/master/Solutions/Python/regularSuperBall.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
