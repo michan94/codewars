@@ -456,7 +456,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Grasshopper - Array Mean](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperArrayMean.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Enumerable Magic - Does My List Include This?](https://github.com/michan94/codewars/blob/master/Solutions/Python/doesMyListInclude.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
