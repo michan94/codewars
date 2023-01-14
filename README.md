@@ -472,7 +472,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Largest Pair Sum in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/largestPairSum.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Define a Card Suit](https://github.com/michan94/codewars/blob/master/Solutions/Python/defineACardSuit.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
