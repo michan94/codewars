@@ -470,7 +470,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Array Filter](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayFilter.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Largest Pair Sum in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/largestPairSum.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
