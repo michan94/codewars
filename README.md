@@ -482,7 +482,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Hello, Name or World](https://github.com/michan94/codewars/blob/master/Solutions/Python/helloNameOrWorld.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Printing Array Elements with Comma Delimiters](https://github.com/michan94/codewars/blob/master/Solutions/Python/printingArrayElementsCommaDelimit.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
