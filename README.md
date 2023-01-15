@@ -480,7 +480,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Predict Your Age!](https://github.com/michan94/codewars/blob/master/Solutions/Python/predictYourAge.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Hello, Name or World](https://github.com/michan94/codewars/blob/master/Solutions/Python/helloNameOrWorld.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
