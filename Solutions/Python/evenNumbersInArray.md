@@ -12,13 +12,10 @@ Given an array of numbers, return a new array of length number containing the la
 
 ```python
 def even_numbers(arr,n):
-    if not arr:
-        return []
-
     result = []
-    while len(result) != n:
-        for num in arr[::-1]:
-            if num%2==0:
-                result.append(num)
+    for num in arr[::-1]:
+        if len(result) != n:
+            if num % 2 == 0:
+                result.insert(0,num)
     return result
 ```
