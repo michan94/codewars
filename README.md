@@ -486,7 +486,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Even Numbers in an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/evenNumbersInArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [USD => CNY](https://github.com/michan94/codewars/blob/master/Solutions/Python/usdToCny.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
