@@ -492,8 +492,6 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Alphabet War](https://github.com/michan94/codewars/blob/master/Solutions/Python/alphabetWar.md)
 
-- [Remove n exclamation marks from left to right](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeNExclamationMarks.md)
-
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
