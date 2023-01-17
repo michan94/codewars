@@ -490,9 +490,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Fundamentals: Return](https://github.com/michan94/codewars/blob/master/Solutions/Python/fundamentalsReturn.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Alphabet War](https://github.com/michan94/codewars/blob/master/Solutions/Python/alphabetWar.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Remove n exclamation marks from left to right](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeNExclamationMarks.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
