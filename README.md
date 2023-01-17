@@ -494,7 +494,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Bumps in the Road](https://github.com/michan94/codewars/blob/master/Solutions/Python/bumpsInTheRoad.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Reverse a Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/reverseANumber.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
