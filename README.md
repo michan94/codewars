@@ -492,7 +492,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Alphabet War](https://github.com/michan94/codewars/blob/master/Solutions/Python/alphabetWar.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Bumps in the Road](https://github.com/michan94/codewars/blob/master/Solutions/Python/bumpsInTheRoad.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
