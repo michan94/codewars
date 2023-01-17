@@ -17,3 +17,10 @@ def bumps(road):
         ptr += 1
     return 'Woohoo!'
 ```
+
+**Solution 2:**
+
+```python
+def bumps(road):
+    return "Woohoo!" if road.count("n") <= 15 else "Car Dead"
+```
