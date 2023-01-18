@@ -496,7 +496,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Reverse a Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/reverseANumber.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum from 0 to N](https://github.com/michan94/codewars/blob/master/Solutions/Python/sum0ToN.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
