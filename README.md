@@ -502,7 +502,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Switcheroo](https://github.com/michan94/codewars/blob/master/Solutions/Python/switcheroo.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [All Unique](https://github.com/michan94/codewars/blob/master/Solutions/Python/allUnique.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
