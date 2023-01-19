@@ -504,7 +504,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [All Unique](https://github.com/michan94/codewars/blob/master/Solutions/Python/allUnique.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Check Same Case](https://github.com/michan94/codewars/blob/master/Solutions/Python/checkSameCase.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
