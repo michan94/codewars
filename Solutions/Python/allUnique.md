@@ -15,3 +15,10 @@ def has_unique_chars(string):
         seen.add(letter)
     return True
 ```
+
+**Solution 2:**
+
+```python
+def has_unique_chars(s):
+    return len(s) == len(set(s))
+```
