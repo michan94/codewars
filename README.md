@@ -498,9 +498,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum from 0 to N](https://github.com/michan94/codewars/blob/master/Solutions/Python/sum0ToN.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Palindrome Chain Length](https://github.com/michan94/codewars/blob/master/Solutions/Python/palindromeChainLength.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Switcheroo](https://github.com/michan94/codewars/blob/master/Solutions/Python/switcheroo.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
