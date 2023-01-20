@@ -13,3 +13,10 @@ def update_light(current):
     nextLight = {'green':'yellow','yellow':'red','red':'green'}
     return nextLight[current]
 ```
+
+**Problem 2:**
+
+```python
+def update_light(current):
+    return {'green':'yellow','yellow':'red','red':'green'}[current]
+```
