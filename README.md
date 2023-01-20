@@ -508,7 +508,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Remove the Time](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeTheTime.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Pillars](https://github.com/michan94/codewars/blob/master/Solutions/Python/pillars.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
