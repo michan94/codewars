@@ -514,7 +514,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Thinkful - Logic Drills: Traffic Light](https://github.com/michan94/codewars/blob/master/Solutions/Python/trafficLight.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Unfinished Loop - Bug Fixing #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/unfinishedLoop1.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
