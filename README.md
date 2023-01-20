@@ -512,7 +512,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Reverse Words](https://github.com/michan94/codewars/blob/master/Solutions/Python/reverseWords.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Thinkful - Logic Drills: Traffic Light](https://github.com/michan94/codewars/blob/master/Solutions/Python/trafficLight.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
