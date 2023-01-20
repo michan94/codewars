@@ -516,7 +516,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Unfinished Loop - Bug Fixing #1](https://github.com/michan94/codewars/blob/master/Solutions/Python/unfinishedLoop1.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Fizz Buzz](https://github.com/michan94/codewars/blob/master/Solutions/Python/fizzBuzz.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
