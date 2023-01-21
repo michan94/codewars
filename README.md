@@ -518,9 +518,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Fizz Buzz](https://github.com/michan94/codewars/blob/master/Solutions/Python/fizzBuzz.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Grasshopper - Debug](https://github.com/michan94/codewars/blob/master/Solutions/Python/grasshopperDebug.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Grasshopper - Variable Assignment Debug](https://github.com/michan94/codewars/blob/master/Solutions/Python/variableAssignmentDebug.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
