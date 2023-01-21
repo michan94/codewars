@@ -522,7 +522,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Grasshopper - Variable Assignment Debug](https://github.com/michan94/codewars/blob/master/Solutions/Python/variableAssignmentDebug.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Greet Me](https://github.com/michan94/codewars/blob/master/Solutions/Python/greetMe.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
