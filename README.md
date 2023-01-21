@@ -524,7 +524,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Greet Me](https://github.com/michan94/codewars/blob/master/Solutions/Python/greetMe.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Vowels](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheVowels.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
