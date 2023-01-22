@@ -532,7 +532,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Basic Function Fixer](https://github.com/michan94/codewars/blob/master/Solutions/Python/basicFunctionFixer.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Equal Sides of an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/equalSidesOfArray.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
