@@ -540,7 +540,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Array.diff](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayDiff.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Binary Addition](https://github.com/michan94/codewars/blob/master/Solutions/Python/binaryAddition.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
