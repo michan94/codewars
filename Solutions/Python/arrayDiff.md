@@ -19,3 +19,10 @@ def array_diff(a, b):
             result.append(num)
     return result
 ```
+
+**Solution 2:**
+
+```python
+def array_diff(a, b):
+    return [x for x in a if x not in b]
+```
