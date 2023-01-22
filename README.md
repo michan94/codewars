@@ -528,7 +528,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sort Arrays - 1](https://github.com/michan94/codewars/blob/master/Solutions/Python/sortArrays1.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Remove Anchor from URL](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeAnchorFromURL.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
