@@ -536,7 +536,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Reversing Words in a String](https://github.com/michan94/codewars/blob/master/Solutions/Python/reversingWordsInString.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Bin to Decimal](https://github.com/michan94/codewars/blob/master/Solutions/Python/binToDecimal.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
