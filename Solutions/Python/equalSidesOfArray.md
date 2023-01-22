@@ -43,3 +43,13 @@ def find_even_index(arr):
         rSum = sum(arr[ptr+1:])
     return -1
 ```
+
+**Solution 2:**
+
+```python
+def find_even_index(arr):
+    for i in range(len(arr)):
+        if sum(arr[:i]) == sum(arr[i+1:]):
+            return i
+    return -1
+```
