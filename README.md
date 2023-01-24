@@ -550,7 +550,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Power of Two](https://github.com/michan94/codewars/blob/master/Solutions/Python/powerOfTwo.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Sum of Differences in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfDiffsInArray.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
