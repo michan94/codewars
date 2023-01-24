@@ -560,7 +560,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Who Likes It?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whoLikesIt.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Create Phone Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/createPhoneNumber.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
