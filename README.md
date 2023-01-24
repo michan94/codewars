@@ -546,9 +546,9 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Round Up to Next Multiple of 5](https://github.com/michan94/codewars/blob/master/Solutions/Python/roundUpToNextMultipleOf5.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [String Cleaning](https://github.com/michan94/codewars/blob/master/Solutions/Python/stringCleaning.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Power of Two](https://github.com/michan94/codewars/blob/master/Solutions/Python/powerOfTwo.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
