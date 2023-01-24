@@ -29,3 +29,24 @@ def array(string):
         return None
     return ' '.join(el for el in elems[1:len(elems)-1])
 ```
+
+**Solution 2:**
+
+```python
+def array(string):
+    print(string)
+    if len(string) < 5:
+        return None
+
+    elems = string.split(',')
+    if len(elems) < 3:
+        return None
+    return ' '.join(el for el in elems[1:-1])
+```
+
+**Solution 3:**
+
+```python
+def array(string):
+    return ' '.join(string.split(',')[1:-1]) or None
+```
