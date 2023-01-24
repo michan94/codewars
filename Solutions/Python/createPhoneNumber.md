@@ -18,3 +18,18 @@ def create_phone_number(n):
         return -1
     return f'({n[0]}{n[1]}{n[2]}) {n[3]}{n[4]}{n[5]}-{n[6]}{n[7]}{n[8]}{n[9]}'
 ```
+
+**Solution 2:**
+
+```python
+def create_phone_number(n):
+	return "({}{}{}) {}{}{}-{}{}{}{}".format(*n)
+```
+
+**Solution 3:**
+
+```python
+def create_phone_number(n):
+    n = ''.join(map(str,n))
+    return '(%s) %s-%s'%(n[:3], n[3:6], n[6:])
+```
