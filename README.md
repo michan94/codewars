@@ -552,7 +552,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sum of Differences in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfDiffsInArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Remove First and Last Character Pt.2](https://github.com/michan94/codewars/blob/master/Solutions/Python/removeFirstAndLastCharacter2.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
