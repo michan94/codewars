@@ -562,7 +562,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Create Phone Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/createPhoneNumber.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Odd Int](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheOddInt.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
