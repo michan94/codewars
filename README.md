@@ -556,7 +556,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Sort the Gift Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/sortTheGiftCode.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Kata Example Twist](https://github.com/michan94/codewars/blob/master/Solutions/Python/kataExampleTwist.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
