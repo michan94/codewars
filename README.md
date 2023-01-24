@@ -558,7 +558,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Kata Example Twist](https://github.com/michan94/codewars/blob/master/Solutions/Python/kataExampleTwist.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Who Likes It?](https://github.com/michan94/codewars/blob/master/Solutions/Python/whoLikesIt.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
