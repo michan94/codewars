@@ -568,7 +568,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Counting Duplicates](https://github.com/michan94/codewars/blob/master/Solutions/Python/countingDuplicates.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Parity Outlier](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheParityOutlier.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
