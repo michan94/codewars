@@ -570,7 +570,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Parity Outlier](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheParityOutlier.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Replace with Alphabet Position](https://github.com/michan94/codewars/blob/master/Solutions/Python/replaceWithAlphabetPosition.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
