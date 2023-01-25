@@ -28,3 +28,10 @@ def narcissistic( value ):
         total += int(digit)**len(num)
     return total == value
 ```
+
+**Solution 2:**
+
+```python
+def narcissistic(value):
+    return value == sum(int(x) ** len(str(value)) for x in str(value))
+```
