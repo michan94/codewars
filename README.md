@@ -566,7 +566,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Stop gninnipS My sdroW!](https://github.com/michan94/codewars/blob/master/Solutions/Python/stopSpinningMyWords.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Counting Duplicates](https://github.com/michan94/codewars/blob/master/Solutions/Python/countingDuplicates.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
