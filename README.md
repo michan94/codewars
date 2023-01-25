@@ -564,7 +564,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Odd Int](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheOddInt.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Stop gninnipS My sdroW!](https://github.com/michan94/codewars/blob/master/Solutions/Python/stopSpinningMyWords.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
