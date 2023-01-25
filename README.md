@@ -572,7 +572,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Replace with Alphabet Position](https://github.com/michan94/codewars/blob/master/Solutions/Python/replaceWithAlphabetPosition.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Your Order, Please](https://github.com/michan94/codewars/blob/master/Solutions/Python/yourOrderPlease.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
