@@ -578,7 +578,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Missing Letter](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheMissingLetter.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Delete Occurences of Element if Occurs More Than n Times](https://github.com/michan94/codewars/blob/master/Solutions/Python/deleteOccurrencesIfMoreThanN.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
