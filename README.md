@@ -582,7 +582,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Highest Scoring Word](https://github.com/michan94/codewars/blob/master/Solutions/Python/highestScoringWord.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Bouncing Balls](https://github.com/michan94/codewars/blob/master/Solutions/Python/bouncingBalls.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
