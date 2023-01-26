@@ -590,7 +590,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [The Supermarket Queue](https://github.com/michan94/codewars/blob/master/Solutions/Python/supermarketQueue.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Title Case](https://github.com/michan94/codewars/blob/master/Solutions/Python/titleCase.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
