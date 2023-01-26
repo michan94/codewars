@@ -588,7 +588,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Two Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/twoSum.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [The Supermarket Queue](https://github.com/michan94/codewars/blob/master/Solutions/Python/supermarketQueue.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
