@@ -584,7 +584,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Bouncing Balls](https://github.com/michan94/codewars/blob/master/Solutions/Python/bouncingBalls.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Count Characters in Your String](https://github.com/michan94/codewars/blob/master/Solutions/Python/countCharsInString.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
