@@ -19,3 +19,10 @@ def count(string):
             seen[ch] = 1
     return seen
 ```
+
+**Solution 2:**
+
+```python
+def count(string):
+    return {ch: string.count(ch) for ch in string}
+```
