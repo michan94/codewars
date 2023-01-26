@@ -592,7 +592,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Title Case](https://github.com/michan94/codewars/blob/master/Solutions/Python/titleCase.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Make the Deadfish Swim](https://github.com/michan94/codewars/blob/master/Solutions/Python/makeTheDeadfishSwim.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
