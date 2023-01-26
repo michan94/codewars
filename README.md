@@ -580,7 +580,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Delete Occurences of Element if Occurs More Than n Times](https://github.com/michan94/codewars/blob/master/Solutions/Python/deleteOccurrencesIfMoreThanN.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Highest Scoring Word](https://github.com/michan94/codewars/blob/master/Solutions/Python/highestScoringWord.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
