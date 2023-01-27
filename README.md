@@ -596,7 +596,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Good vs Evil](https://github.com/michan94/codewars/blob/master/Solutions/Python/goodVsEvil.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Form the Minimum](https://github.com/michan94/codewars/blob/master/Solutions/Python/formTheMinimum.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
