@@ -598,7 +598,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Form the Minimum](https://github.com/michan94/codewars/blob/master/Solutions/Python/formTheMinimum.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Number of Decimal Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/numOfDecimalDigits.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
