@@ -594,7 +594,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Make the Deadfish Swim](https://github.com/michan94/codewars/blob/master/Solutions/Python/makeTheDeadfishSwim.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Good vs Evil](https://github.com/michan94/codewars/blob/master/Solutions/Python/goodVsEvil.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
