@@ -600,7 +600,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Number of Decimal Digits](https://github.com/michan94/codewars/blob/master/Solutions/Python/numOfDecimalDigits.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Backspaces in String](https://github.com/michan94/codewars/blob/master/Solutions/Python/backspacesInString.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
