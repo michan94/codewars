@@ -604,13 +604,13 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [The Vowel Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/theVowelCode.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Functional Addition](https://github.com/michan94/codewars/blob/master/Solutions/Python/functionalAddition.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Maximum Product](https://github.com/michan94/codewars/blob/master/Solutions/Python/maximumProduct.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Length of Missing Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/lengthOfMissingArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Multiply All Elements in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/multiplyAllArrayElements.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
