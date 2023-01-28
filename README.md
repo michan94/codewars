@@ -602,7 +602,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Backspaces in String](https://github.com/michan94/codewars/blob/master/Solutions/Python/backspacesInString.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [The Vowel Code](https://github.com/michan94/codewars/blob/master/Solutions/Python/theVowelCode.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
