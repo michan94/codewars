@@ -612,11 +612,11 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Multiply All Elements in Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/multiplyAllArrayElements.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Simple Beads Count](https://github.com/michan94/codewars/blob/master/Solutions/Python/beadsCount.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Highest Rank Number in an Array](https://github.com/michan94/codewars/blob/master/Solutions/Python/highestRankNumInArray.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Halving Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/halvingSum.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
