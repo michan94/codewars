@@ -620,7 +620,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Alphabetical Addition](https://github.com/michan94/codewars/blob/master/Solutions/Python/alphabeticalAddition.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Find the Nth Digit of a Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheNthDigit.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
