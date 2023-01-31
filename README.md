@@ -618,7 +618,7 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Halving Sum](https://github.com/michan94/codewars/blob/master/Solutions/Python/halvingSum.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Alphabetical Addition](https://github.com/michan94/codewars/blob/master/Solutions/Python/alphabeticalAddition.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
