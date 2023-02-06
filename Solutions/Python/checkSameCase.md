@@ -28,4 +28,5 @@ def same_case(a, b):
         return 1
     if (a.isupper() and not b.isupper()) or (not a.isupper() and b.isupper()):
         return 0
+        
 ```
