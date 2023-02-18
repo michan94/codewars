@@ -622,11 +622,47 @@ Codewars profile: https://www.codewars.com/users/michan94.
 
 - [Find the Nth Digit of a Number](https://github.com/michan94/codewars/blob/master/Solutions/Python/findTheNthDigit.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Simple String Characters](https://github.com/michan94/codewars/blob/master/Solutions/Python/simpleStringCharacters.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [V A P O R C O D E](https://github.com/michan94/codewars/blob/master/Solutions/Python/vaporcode.md)
 
-- [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
+- [Convert Array of Strings to Array of Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayOfStringsToNumbers.md)
+
+- [Incrementer](https://github.com/michan94/codewars/blob/master/Solutions/Python/incrementer.md)
+
+- [Averages of Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/averagesOfNumbers.md)
+
+- [Return the Missing Element](https://github.com/michan94/codewars/blob/master/Solutions/Python/returnMissingElement.md)
+
+- [Nth Smallest Element](https://github.com/michan94/codewars/blob/master/Solutions/Python/nthSmallestElement.md)
+
+- [Caffeine Script](https://github.com/michan94/codewars/blob/master/Solutions/Python/caffeineScript.md)
+
+- [getNames()](https://github.com/michan94/codewars/blob/master/Solutions/Python/getNames.md)
+
+- [Max Diff - Easy](https://github.com/michan94/codewars/blob/master/Solutions/Python/maxDiffEasy.md)
+
+- [FIXME: Get Full Name](https://github.com/michan94/codewars/blob/master/Solutions/Python/getFullName.md)
+
+- [Simple Consecutive Pairs](https://github.com/michan94/codewars/blob/master/Solutions/Python/simpleConsecutivePairs.md)
+
+- [Sum of Array Singles](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumOfArraySingles.md)
+
+- [Vowel One](https://github.com/michan94/codewars/blob/master/Solutions/Python/vowelOne.md)
+
+- [Invite More Women?](https://github.com/michan94/codewars/blob/master/Solutions/Python/inviteMoreWomen.md)
+
+- [Sum Even Numbers](https://github.com/michan94/codewars/blob/master/Solutions/Python/sumEvenNumbers.md)
+
+- [Largest Elements](https://github.com/michan94/codewars/blob/master/Solutions/Python/largestElements.md)
+
+- [Limit String Length - 1](https://github.com/michan94/codewars/blob/master/Solutions/Python/limitStringLengthMinusOne.md)
+
+- [Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/michan94/codewars/blob/master/Solutions/Python/findDuplicatedNumber.md)
+
+- [Making Copies](https://github.com/michan94/codewars/blob/master/Solutions/Python/makingCopies.md)
+
+- [Array Element Parity](https://github.com/michan94/codewars/blob/master/Solutions/Python/arrayElementParity.md)
 
 - [](https://github.com/michan94/codewars/blob/master/Solutions/Python/.md)
 
